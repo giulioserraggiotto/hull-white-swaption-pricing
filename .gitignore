@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+# Course-supplied market data is not redistributable
+*.xls
+*.xlsx
